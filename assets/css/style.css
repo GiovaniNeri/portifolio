@@ -227,9 +227,14 @@ a:hover {
     padding: 0;
 }
 
+.skiils .tools ul li {
+    padding: .5rem;
+}
+
 .skiils .tools ul li img{
     max-width: 50px;
     margin: 0 .5rem;
+    
 }
 
 .skiils .personal ul {
